@@ -1,3 +1,4 @@
+\\Stack in java
 import java.util.*;
 class Stack{
 	ArrayList al = new ArrayList();
